@@ -1,0 +1,18 @@
+body{
+    font-family: 'Times New Roman' , 'Times New Roman', Times, serif;
+    background:radial-gradient(#F89174, #FFC778);
+    color: white;
+    width: 700px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    padding: 5px 20px;
+    background-color: #aa7733;
+    border-style: none;
+    color: #2a9dff;
+}
+input{
+    height: 24px
+}
